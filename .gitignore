@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Results 
+Results/
+results/
+elogs/
+ologs/
+/scripts/evolutionary_scripts/prototype_results/
+/scripts/evolutionary_scripts/results/
+/scripts/evolutionary_scripts/misc/profile_output.prof
+
+# Egg info
+multimodal_mazes.egg-info/
+
+# HPC Files
+HPC_job.pbs*
+
+# GIFS
+*.gif
