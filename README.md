@@ -1,6 +1,8 @@
 # Modular-NN-Evolution
 # Overview
 
+📄 [Evolving Modular Neural Networks (PDF)](./evolving_modular_neural_networks.pdf)
+
 This repository provides an **evolutionary algorithm (EA) framework** for exploring solutions to **image classification** and **multimodal maze** tasks.
 It includes tools for **task execution, analysis, and visualization**.
 
